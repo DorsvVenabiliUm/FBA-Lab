@@ -1,6 +1,6 @@
 {
    "name": "Python Codespace",
-   "image": "mcr.microsoft.com/devcontainers/python:3.10", // Specify Python version
+   "image": "mcr.microsoft.com/devcontainers/python:3.10",
    "customizations": {
      "vscode": {
        "extensions": [
